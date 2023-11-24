@@ -31,3 +31,15 @@ listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,13,14,16,20]
 print(findMissingNumbers(listOfNumbers))
 
 # output: [12, 15, 17, 18, 19]
+
+
+"""So this is how you can find the missing numbers in an array or a list using the Python programming language.
+You can find many more coding interview questions and Python projects here.
+
+### Summary
+Finding the missing number in an array is a popular coding interview question.
+To find the missing number in an array, we need to iterate over the input array and store
+the numbers in another array that we did not find in the input array while iterating over it.
+I hope you liked this article on how to find the missing number in an array or a list using Python.
+Feel free to ask valuable questions in the comments section below. 
+"""
